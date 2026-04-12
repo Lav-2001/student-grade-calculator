@@ -29,6 +29,7 @@ This project helps beginners understand:
 
 * Python 3
 * Command Line Interface (CLI)
+* Visual Studio Code (VS Code)
 
 ## 5. How the Program Works
 
