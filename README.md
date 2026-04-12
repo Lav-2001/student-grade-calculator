@@ -48,7 +48,7 @@ cd student-grade-calculator
 
 ### Step 3: Run Program
 
-python grade_calculator.py
+python main.py
 
 ## 📈 Grading System
 
