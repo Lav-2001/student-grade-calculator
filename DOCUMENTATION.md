@@ -33,13 +33,13 @@ This project helps beginners understand:
 
 ## 5. How the Program Works
 
-Step 1: User enters number of subjects
-Step 2: User enters marks for each subject
-Step 3: Program stores marks in a list
-Step 4: Program calculates total marks
-Step 5: Program calculates percentage
-Step 6: Program assigns grade
-Step 7: Program displays result
+* Step 1: User enters number of subjects
+* Step 2: User enters marks for each subject
+* Step 3: Program stores marks in a list
+* Step 4: Program calculates total marks
+* Step 5: Program calculates percentage
+* Step 6: Program assigns grade
+* Step 7: Program displays result
 
 ## 6. Grading System
 
@@ -66,7 +66,7 @@ Parameters:
 
 Returns:
 
-* None
+* Total marks, percentage, grade and message
 
 ## 8. Future Improvements
 

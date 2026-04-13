@@ -33,14 +33,14 @@ student-grade-calculator/
 
 ├── Screenshots
 
-└── DOCUMENTATION.md'
+└── DOCUMENTATION.md
 
 
 ## ▶️ How to Run
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/your-username/student-grade-calculator.git
+git clone https://github.com/Lav-2001/student-grade-calculator.git
 
 ### Step 2: Go to Project Folder
 
